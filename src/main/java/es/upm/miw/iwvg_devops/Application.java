@@ -10,11 +10,13 @@ public class Application {
         SpringApplication.run(Application.class, args);// mvnw clean spring-boot:run
     }
 
-    private String prueba(String prueba){
+    private String prueba1(String prueba){
         return prueba;
     }
-
-    private String prueba2(String prueba){
+    private String pruebas2(String prueba){
+        return prueba;
+    }
+    private String prueba3(String prueba){
         return prueba;
     }
 }
