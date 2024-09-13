@@ -13,7 +13,7 @@ public class Application {
     private String prueba(String prueba){
         return prueba;
     }
-    private String prueba2(String prueba){
+    private String pruebas2(String prueba){
         return prueba;
     }
     private String prueba3(String prueba){
