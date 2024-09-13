@@ -9,4 +9,8 @@ public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);// mvnw clean spring-boot:run
     }
+
+    private String prueba(String prueba){
+        return prueba;
+    }
 }
