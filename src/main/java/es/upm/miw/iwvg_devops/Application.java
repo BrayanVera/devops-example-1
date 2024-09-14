@@ -10,7 +10,7 @@ public class Application {
         SpringApplication.run(Application.class, args);// mvnw clean spring-boot:run
     }
 
-    private String pruebas1(String prueba){
+    private String prueba1(String prueba){
         return prueba;
     }
     private String pruebas2(String prueba){
